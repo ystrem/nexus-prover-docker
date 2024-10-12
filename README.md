@@ -1,4 +1,4 @@
-## Git clone repository
+## Nexus prover in docker
 ```
 docker build -t nexus-prover .
 docker run -d --name nexus-prover-container nexus-prover
